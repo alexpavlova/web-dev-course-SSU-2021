@@ -4,4 +4,4 @@ http://htmlpreview.github.io/?https://github.com/alexpavlova/web-dev-course-SSU-
 # Task 2
 http://htmlpreview.github.io/?https://github.com/alexpavlova/web-dev-course-SSU-2021/blob/main/Task-02_HTML-CV/index.html
 # Task 3
-http://htmlpreview.github.com/alexpavlova/web-dev-course-SSU-2021/blob/main/Task-03_HTML-CSS%20Selectors/index.html
+http://htmlpreview.github.io/?https://github.com/alexpavlova/web-dev-course-SSU-2021/blob/main/Task-03_HTML-CSS%20Selectors/index.html
