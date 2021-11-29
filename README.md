@@ -9,3 +9,4 @@ http://htmlpreview.github.io/?https://github.com/alexpavlova/web-dev-course-SSU-
 http://htmlpreview.github.io/?https://github.com/alexpavlova/web-dev-course-SSU-2021/blob/main/Task-04_HTML-CSS%20Basics/index.html
 # Task 5
 http://htmlpreview.github.io/?https://github.com/alexpavlova/web-dev-course-SSU-2021/blob/main/Task-05_HTML-CSS%20CV/index.html
+# Task 6
