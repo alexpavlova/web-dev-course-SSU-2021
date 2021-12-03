@@ -13,3 +13,5 @@ http://htmlpreview.github.io/?https://github.com/alexpavlova/web-dev-course-SSU-
 http://htmlpreview.github.io/?https://github.com/alexpavlova/web-dev-course-SSU-2021/blob/main/Task-06_HTML-JS%20Basics/index.html
 # Task 7
 http://htmlpreview.github.io/?https://github.com/alexpavlova/web-dev-course-SSU-2021/blob/main/Task-07_JS-Advanced/index.html
+# Task 8
+http://htmlpreview.github.io/?https://github.com/alexpavlova/web-dev-course-SSU-2021/blob/main/Task-08_JS%20Functions/index.html
