@@ -1,0 +1,16 @@
+body {
+    margin: 20px;
+    font-size: 14px;
+    background-color:rgb(231, 194, 133);
+}
+
+h1,
+h3{
+    color: rgb(28, 9, 63);
+}
+
+div{
+    padding: 10px;
+    margin-right: 10px;
+    text-align: center;
+    }

@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Task 9 Pavlova</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="Task_6-3_Vowels_count.js"></script>
+    <script src="Task_6-5_Isograms.js"></script>
+    <script src="Task_8-2_Eliminating_game.js"></script>
+</head>
+
+
+<body>
+  
+    <div>
+        <h1>Подсчёт гласных:</h1>
+        <form>
+            <input type="text" placeholder="Введите строку для полученя количества гласных в ней" id="getInputVowels"/>
+            <input type="button" value="Очистить" onclick="reset()"></input>
+            <input type="button" value="Подсчёт гласных" onclick="getVowels()"></input>
+            <h3>Результат:</h3>
+            <div id="getResult"></div>
+        </form>
+    </div>
+    
+    <div>
+        <h1>Изограммы:</h1>
+        <form>
+            <input type="text" placeholder="Введите слово,чтобы узнать, является ли оно изограммой" id="getInput"/>
+            <input type="button" value="Очистить" onclick="resetStr()"></input>
+            <input type="button" value="Изограммы" onclick="getString()"></input>
+            <h3>Результат:</h3>
+            <div id="getResultTr"></div>
+        </form>
+    </div>
+    <div>
+    <h1> Игра на выбывание</h1>
+    <form>
+        <input type="number" placeholder="Количество людей" id="Game_Num"/>
+        <input type="number" placeholder="Выбывает каждый" id="Game_Number"/>
+        <input type="button" value="Очистить" onclick="resetTask_8_2()"></input>
+        <input type="button" value="Определить победителя" onclick="startTask_8_2()"></input>
+        <h3>Результат:</h3>
+        <div id="Result_G"></div>
+    </form>
+    </div>
+</body>
+</html>
