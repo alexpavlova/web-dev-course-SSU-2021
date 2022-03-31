@@ -1,0 +1,38 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+body {
+    background-image: url('../images/back.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.all-width {
+    width: 100%;
+}
+
+.middle-text {
+    text-align: center;
+}
+
+.left-text {
+    text-align: left;
+}
+
+.right-text {
+    text-align: right;
+}
+
+.middle-table {
+    margin: auto;
+}
+
+.cell-width {
+    width: 19px;
+}
+
+.cell-red {
+    background-color: #ec1f4e;
+}
